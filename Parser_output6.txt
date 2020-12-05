@@ -1,0 +1,21 @@
+	Input <program>
+Next token would be: 11, Next lexeme would be mergeSort
+	Input <clause-list>
+	Input <clause>
+	Input <predicate>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 25, The next lexeme would be (
+	Leave <small-atom>
+	Leave <atom>
+The next token would be: -1, The next lexeme would be [
+	Input <term-list>
+	Input <term>
+Error Present! = in <term>	Leave <term>
+	Leave <term-list>
+Error Present! = in <predicate>	Leave <predicate>
+Error Present! = in <clause> missing Period/period	Leave <clause>
+	Leave <clause-list>
+	Input <query>
+Error Present! = in <query> missing a ?	Leave <query>
+	Input <program>

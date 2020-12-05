@@ -1,0 +1,659 @@
+	Input <program>
+Next token would be: 11, Next lexeme would be object
+	Input <clause-list>
+	Input <clause>
+	Input <predicate>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 25, The next lexeme would be (
+	Leave <small-atom>
+	Leave <atom>
+The next token would be: 11, The next lexeme would be candle
+	Input <term-list>
+	Input <term>
+	Input <structure>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 32, The next lexeme would be ,
+	Leave <small-atom>
+	Leave <atom>
+	Leave <structure>
+	Leave <term>
+The next token would be: 11, The next lexeme would be red
+	Input <term-list>
+	Input <term>
+	Input <structure>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 32, The next lexeme would be ,
+	Leave <small-atom>
+	Leave <atom>
+	Leave <structure>
+	Leave <term>
+The next token would be: 11, The next lexeme would be small
+	Input <term-list>
+	Input <term>
+	Input <structure>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 32, The next lexeme would be ,
+	Leave <small-atom>
+	Leave <atom>
+	Leave <structure>
+	Leave <term>
+The next token would be: 15, The next lexeme would be 1
+	Input <term-list>
+	Input <term>
+	Input <numeral>
+The next token would be: 26, The next lexeme would be )
+	Leave <numeral>
+	Leave <term>
+	Leave <term-list>
+	Leave <term-list>
+	Leave <term-list>
+	Leave <term-list>
+The next token would be: 38, The next lexeme would be .
+	Leave <predicate>
+The next token would be: 36, The next lexeme would be  
+The next token would be: 11, The next lexeme would be object
+	Leave <clause>
+	Input <clause-list>
+	Input <clause>
+	Input <predicate>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 25, The next lexeme would be (
+	Leave <small-atom>
+	Leave <atom>
+The next token would be: 11, The next lexeme would be apple
+	Input <term-list>
+	Input <term>
+	Input <structure>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 32, The next lexeme would be ,
+	Leave <small-atom>
+	Leave <atom>
+	Leave <structure>
+	Leave <term>
+The next token would be: 11, The next lexeme would be red
+	Input <term-list>
+	Input <term>
+	Input <structure>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 32, The next lexeme would be ,
+	Leave <small-atom>
+	Leave <atom>
+	Leave <structure>
+	Leave <term>
+The next token would be: 11, The next lexeme would be small
+	Input <term-list>
+	Input <term>
+	Input <structure>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 32, The next lexeme would be ,
+	Leave <small-atom>
+	Leave <atom>
+	Leave <structure>
+	Leave <term>
+The next token would be: 15, The next lexeme would be 1
+	Input <term-list>
+	Input <term>
+	Input <numeral>
+The next token would be: 26, The next lexeme would be )
+	Leave <numeral>
+	Leave <term>
+	Leave <term-list>
+	Leave <term-list>
+	Leave <term-list>
+	Leave <term-list>
+The next token would be: 38, The next lexeme would be .
+	Leave <predicate>
+The next token would be: 12, The next lexeme would be 
+
+The next token would be: 11, The next lexeme would be object
+	Leave <clause>
+	Input <clause-list>
+	Input <clause>
+	Input <predicate>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 25, The next lexeme would be (
+	Leave <small-atom>
+	Leave <atom>
+The next token would be: 11, The next lexeme would be apple
+	Input <term-list>
+	Input <term>
+	Input <structure>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 32, The next lexeme would be ,
+	Leave <small-atom>
+	Leave <atom>
+	Leave <structure>
+	Leave <term>
+The next token would be: 11, The next lexeme would be green
+	Input <term-list>
+	Input <term>
+	Input <structure>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 32, The next lexeme would be ,
+	Leave <small-atom>
+	Leave <atom>
+	Leave <structure>
+	Leave <term>
+The next token would be: 11, The next lexeme would be small
+	Input <term-list>
+	Input <term>
+	Input <structure>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 32, The next lexeme would be ,
+	Leave <small-atom>
+	Leave <atom>
+	Leave <structure>
+	Leave <term>
+The next token would be: 15, The next lexeme would be 1
+	Input <term-list>
+	Input <term>
+	Input <numeral>
+The next token would be: 26, The next lexeme would be )
+	Leave <numeral>
+	Leave <term>
+	Leave <term-list>
+	Leave <term-list>
+	Leave <term-list>
+	Leave <term-list>
+The next token would be: 38, The next lexeme would be .
+	Leave <predicate>
+The next token would be: 36, The next lexeme would be  
+The next token would be: 11, The next lexeme would be object
+	Leave <clause>
+	Input <clause-list>
+	Input <clause>
+	Input <predicate>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 25, The next lexeme would be (
+	Leave <small-atom>
+	Leave <atom>
+The next token would be: 11, The next lexeme would be table
+	Input <term-list>
+	Input <term>
+	Input <structure>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 32, The next lexeme would be ,
+	Leave <small-atom>
+	Leave <atom>
+	Leave <structure>
+	Leave <term>
+The next token would be: 11, The next lexeme would be blue
+	Input <term-list>
+	Input <term>
+	Input <structure>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 32, The next lexeme would be ,
+	Leave <small-atom>
+	Leave <atom>
+	Leave <structure>
+	Leave <term>
+The next token would be: 11, The next lexeme would be big
+	Input <term-list>
+	Input <term>
+	Input <structure>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 32, The next lexeme would be ,
+	Leave <small-atom>
+	Leave <atom>
+	Leave <structure>
+	Leave <term>
+The next token would be: 15, The next lexeme would be 50
+	Input <term-list>
+	Input <term>
+	Input <numeral>
+The next token would be: 26, The next lexeme would be )
+	Leave <numeral>
+	Leave <term>
+	Leave <term-list>
+	Leave <term-list>
+	Leave <term-list>
+	Leave <term-list>
+The next token would be: 38, The next lexeme would be .
+	Leave <predicate>
+The next token would be: 12, The next lexeme would be 
+
+The next token would be: 11, The next lexeme would be location
+	Leave <clause>
+	Input <clause-list>
+	Input <clause>
+	Input <predicate>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 25, The next lexeme would be (
+	Leave <small-atom>
+	Leave <atom>
+The next token would be: 11, The next lexeme would be object
+	Input <term-list>
+	Input <term>
+	Input <structure>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 25, The next lexeme would be (
+	Leave <small-atom>
+	Leave <atom>
+The next token would be: 11, The next lexeme would be candle
+	Input <term-list>
+	Input <term>
+	Input <structure>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 32, The next lexeme would be ,
+	Leave <small-atom>
+	Leave <atom>
+	Leave <structure>
+	Leave <term>
+The next token would be: 11, The next lexeme would be red
+	Input <term-list>
+	Input <term>
+	Input <structure>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 32, The next lexeme would be ,
+	Leave <small-atom>
+	Leave <atom>
+	Leave <structure>
+	Leave <term>
+The next token would be: 11, The next lexeme would be small
+	Input <term-list>
+	Input <term>
+	Input <structure>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 32, The next lexeme would be ,
+	Leave <small-atom>
+	Leave <atom>
+	Leave <structure>
+	Leave <term>
+The next token would be: 15, The next lexeme would be 1
+	Input <term-list>
+	Input <term>
+	Input <numeral>
+The next token would be: 26, The next lexeme would be )
+	Leave <numeral>
+	Leave <term>
+	Leave <term-list>
+	Leave <term-list>
+	Leave <term-list>
+	Leave <term-list>
+The next token would be: 32, The next lexeme would be ,
+	Leave <structure>
+	Leave <term>
+The next token would be: 36, The next lexeme would be  
+The next token would be: 11, The next lexeme would be kitchen
+	Input <term-list>
+	Input <term>
+	Input <structure>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 26, The next lexeme would be )
+	Leave <small-atom>
+	Leave <atom>
+	Leave <structure>
+	Leave <term>
+	Leave <term-list>
+	Leave <term-list>
+The next token would be: 38, The next lexeme would be .
+	Leave <predicate>
+The next token would be: 12, The next lexeme would be 
+
+The next token would be: 11, The next lexeme would be location
+	Leave <clause>
+	Input <clause-list>
+	Input <clause>
+	Input <predicate>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 25, The next lexeme would be (
+	Leave <small-atom>
+	Leave <atom>
+The next token would be: 11, The next lexeme would be object
+	Input <term-list>
+	Input <term>
+	Input <structure>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 25, The next lexeme would be (
+	Leave <small-atom>
+	Leave <atom>
+The next token would be: 11, The next lexeme would be apple
+	Input <term-list>
+	Input <term>
+	Input <structure>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 32, The next lexeme would be ,
+	Leave <small-atom>
+	Leave <atom>
+	Leave <structure>
+	Leave <term>
+The next token would be: 11, The next lexeme would be red
+	Input <term-list>
+	Input <term>
+	Input <structure>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 32, The next lexeme would be ,
+	Leave <small-atom>
+	Leave <atom>
+	Leave <structure>
+	Leave <term>
+The next token would be: 11, The next lexeme would be small
+	Input <term-list>
+	Input <term>
+	Input <structure>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 32, The next lexeme would be ,
+	Leave <small-atom>
+	Leave <atom>
+	Leave <structure>
+	Leave <term>
+The next token would be: 15, The next lexeme would be 1
+	Input <term-list>
+	Input <term>
+	Input <numeral>
+The next token would be: 26, The next lexeme would be )
+	Leave <numeral>
+	Leave <term>
+	Leave <term-list>
+	Leave <term-list>
+	Leave <term-list>
+	Leave <term-list>
+The next token would be: 32, The next lexeme would be ,
+	Leave <structure>
+	Leave <term>
+The next token would be: 36, The next lexeme would be  
+The next token would be: 11, The next lexeme would be kitchen
+	Input <term-list>
+	Input <term>
+	Input <structure>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 26, The next lexeme would be )
+	Leave <small-atom>
+	Leave <atom>
+	Leave <structure>
+	Leave <term>
+	Leave <term-list>
+	Leave <term-list>
+The next token would be: 38, The next lexeme would be .
+	Leave <predicate>
+The next token would be: 12, The next lexeme would be 
+
+The next token would be: 11, The next lexeme would be location
+	Leave <clause>
+	Input <clause-list>
+	Input <clause>
+	Input <predicate>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 25, The next lexeme would be (
+	Leave <small-atom>
+	Leave <atom>
+The next token would be: 11, The next lexeme would be object
+	Input <term-list>
+	Input <term>
+	Input <structure>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 25, The next lexeme would be (
+	Leave <small-atom>
+	Leave <atom>
+The next token would be: 11, The next lexeme would be apple
+	Input <term-list>
+	Input <term>
+	Input <structure>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 32, The next lexeme would be ,
+	Leave <small-atom>
+	Leave <atom>
+	Leave <structure>
+	Leave <term>
+The next token would be: 11, The next lexeme would be green
+	Input <term-list>
+	Input <term>
+	Input <structure>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 32, The next lexeme would be ,
+	Leave <small-atom>
+	Leave <atom>
+	Leave <structure>
+	Leave <term>
+The next token would be: 11, The next lexeme would be small
+	Input <term-list>
+	Input <term>
+	Input <structure>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 32, The next lexeme would be ,
+	Leave <small-atom>
+	Leave <atom>
+	Leave <structure>
+	Leave <term>
+The next token would be: 15, The next lexeme would be 1
+	Input <term-list>
+	Input <term>
+	Input <numeral>
+The next token would be: 26, The next lexeme would be )
+	Leave <numeral>
+	Leave <term>
+	Leave <term-list>
+	Leave <term-list>
+	Leave <term-list>
+	Leave <term-list>
+The next token would be: 32, The next lexeme would be ,
+	Leave <structure>
+	Leave <term>
+The next token would be: 36, The next lexeme would be  
+The next token would be: 11, The next lexeme would be kitchen
+	Input <term-list>
+	Input <term>
+	Input <structure>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 26, The next lexeme would be )
+	Leave <small-atom>
+	Leave <atom>
+	Leave <structure>
+	Leave <term>
+	Leave <term-list>
+	Leave <term-list>
+The next token would be: 38, The next lexeme would be .
+	Leave <predicate>
+The next token would be: 12, The next lexeme would be 
+
+The next token would be: 11, The next lexeme would be location
+	Leave <clause>
+	Input <clause-list>
+	Input <clause>
+	Input <predicate>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 25, The next lexeme would be (
+	Leave <small-atom>
+	Leave <atom>
+The next token would be: 11, The next lexeme would be object
+	Input <term-list>
+	Input <term>
+	Input <structure>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 25, The next lexeme would be (
+	Leave <small-atom>
+	Leave <atom>
+The next token would be: 11, The next lexeme would be table
+	Input <term-list>
+	Input <term>
+	Input <structure>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 32, The next lexeme would be ,
+	Leave <small-atom>
+	Leave <atom>
+	Leave <structure>
+	Leave <term>
+The next token would be: 11, The next lexeme would be blue
+	Input <term-list>
+	Input <term>
+	Input <structure>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 32, The next lexeme would be ,
+	Leave <small-atom>
+	Leave <atom>
+	Leave <structure>
+	Leave <term>
+The next token would be: 11, The next lexeme would be big
+	Input <term-list>
+	Input <term>
+	Input <structure>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 32, The next lexeme would be ,
+	Leave <small-atom>
+	Leave <atom>
+	Leave <structure>
+	Leave <term>
+The next token would be: 15, The next lexeme would be 50
+	Input <term-list>
+	Input <term>
+	Input <numeral>
+The next token would be: 26, The next lexeme would be )
+	Leave <numeral>
+	Leave <term>
+	Leave <term-list>
+	Leave <term-list>
+	Leave <term-list>
+	Leave <term-list>
+The next token would be: 32, The next lexeme would be ,
+	Leave <structure>
+	Leave <term>
+The next token would be: 36, The next lexeme would be  
+The next token would be: 11, The next lexeme would be kitchen
+	Input <term-list>
+	Input <term>
+	Input <structure>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 26, The next lexeme would be )
+	Leave <small-atom>
+	Leave <atom>
+	Leave <structure>
+	Leave <term>
+	Leave <term-list>
+	Leave <term-list>
+The next token would be: 38, The next lexeme would be .
+	Leave <predicate>
+The next token would be: 12, The next lexeme would be 
+
+The next token would be: 37, The next lexeme would be ?
+	Leave <clause>
+	Leave <clause-list>
+	Leave <clause-list>
+	Leave <clause-list>
+	Leave <clause-list>
+	Leave <clause-list>
+	Leave <clause-list>
+	Leave <clause-list>
+	Leave <clause-list>
+	Input <query>
+The next token would be: 22, The next lexeme would be -
+The next token would be: 36, The next lexeme would be  
+The next token would be: 11, The next lexeme would be location
+	Input <predicate-list>
+	Input <predicate>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 25, The next lexeme would be (
+	Leave <small-atom>
+	Leave <atom>
+The next token would be: 11, The next lexeme would be object
+	Input <term-list>
+	Input <term>
+	Input <structure>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 25, The next lexeme would be (
+	Leave <small-atom>
+	Leave <atom>
+The next token would be: 10, The next lexeme would be _name
+	Input <term-list>
+	Input <term>
+	Input <variable>
+The next token would be: 32, The next lexeme would be ,
+	Leave <variable>
+	Leave <term>
+The next token would be: 36, The next lexeme would be  
+The next token would be: 11, The next lexeme would be red
+	Input <term-list>
+	Input <term>
+	Input <structure>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 32, The next lexeme would be ,
+	Leave <small-atom>
+	Leave <atom>
+	Leave <structure>
+	Leave <term>
+The next token would be: 10, The next lexeme would be _
+	Input <term-list>
+	Input <term>
+	Input <variable>
+The next token would be: 32, The next lexeme would be ,
+	Leave <variable>
+	Leave <term>
+The next token would be: 10, The next lexeme would be _
+	Input <term-list>
+	Input <term>
+	Input <variable>
+The next token would be: 26, The next lexeme would be )
+	Leave <variable>
+	Leave <term>
+	Leave <term-list>
+	Leave <term-list>
+	Leave <term-list>
+	Leave <term-list>
+The next token would be: 32, The next lexeme would be ,
+	Leave <structure>
+	Leave <term>
+The next token would be: 36, The next lexeme would be  
+The next token would be: 11, The next lexeme would be kitchen
+	Input <term-list>
+	Input <term>
+	Input <structure>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 26, The next lexeme would be )
+	Leave <small-atom>
+	Leave <atom>
+	Leave <structure>
+	Leave <term>
+	Leave <term-list>
+	Leave <term-list>
+The next token would be: 38, The next lexeme would be .
+	Leave <predicate>
+	Leave <predicate-list>
+The next token would be: 36, The next lexeme would be  
+	Leave <query>
+	Input <program>
+	Input <program>
+Next token would be: -1, Next lexeme would be EOF
+	Leave <program>

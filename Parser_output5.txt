@@ -1,0 +1,337 @@
+	Input <program>
+Next token would be: 11, Next lexeme would be factorial
+	Input <clause-list>
+	Input <clause>
+	Input <predicate>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 25, The next lexeme would be (
+	Leave <small-atom>
+	Leave <atom>
+The next token would be: 10, The next lexeme would be N
+	Input <term-list>
+	Input <term>
+	Input <variable>
+The next token would be: 32, The next lexeme would be ,
+	Leave <variable>
+	Leave <term>
+The next token would be: 10, The next lexeme would be F
+	Input <term-list>
+	Input <term>
+	Input <variable>
+The next token would be: 26, The next lexeme would be )
+	Leave <variable>
+	Leave <term>
+	Leave <term-list>
+	Leave <term-list>
+The next token would be: 36, The next lexeme would be  
+The next token would be: 39, The next lexeme would be :
+	Leave <predicate>
+The next token would be: 22, The next lexeme would be -
+The next token would be: 36, The next lexeme would be  
+The next token would be: 11, The next lexeme would be factorial
+	Input <predicate-list>
+	Input <predicate>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 25, The next lexeme would be (
+	Leave <small-atom>
+	Leave <atom>
+The next token would be: 10, The next lexeme would be N
+	Input <term-list>
+	Input <term>
+	Input <variable>
+The next token would be: 32, The next lexeme would be ,
+	Leave <variable>
+	Leave <term>
+The next token would be: 15, The next lexeme would be 1
+	Input <term-list>
+	Input <term>
+	Input <numeral>
+The next token would be: 32, The next lexeme would be ,
+	Leave <numeral>
+	Leave <term>
+The next token would be: 10, The next lexeme would be F
+	Input <term-list>
+	Input <term>
+	Input <variable>
+The next token would be: 26, The next lexeme would be )
+	Leave <variable>
+	Leave <term>
+	Leave <term-list>
+	Leave <term-list>
+	Leave <term-list>
+The next token would be: 38, The next lexeme would be .
+	Leave <predicate>
+	Leave <predicate-list>
+The next token would be: 12, The next lexeme would be 
+
+The next token would be: 11, The next lexeme would be factorial
+	Leave <clause>
+	Input <clause-list>
+	Input <clause>
+	Input <predicate>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 25, The next lexeme would be (
+	Leave <small-atom>
+	Leave <atom>
+The next token would be: 15, The next lexeme would be 0
+	Input <term-list>
+	Input <term>
+	Input <numeral>
+The next token would be: 32, The next lexeme would be ,
+	Leave <numeral>
+	Leave <term>
+The next token would be: 10, The next lexeme would be F
+	Input <term-list>
+	Input <term>
+	Input <variable>
+The next token would be: 32, The next lexeme would be ,
+	Leave <variable>
+	Leave <term>
+The next token would be: 10, The next lexeme would be F
+	Input <term-list>
+	Input <term>
+	Input <variable>
+The next token would be: 26, The next lexeme would be )
+	Leave <variable>
+	Leave <term>
+	Leave <term-list>
+	Leave <term-list>
+	Leave <term-list>
+The next token would be: 38, The next lexeme would be .
+	Leave <predicate>
+The next token would be: 12, The next lexeme would be 
+
+The next token would be: 11, The next lexeme would be factorial
+	Leave <clause>
+	Input <clause-list>
+	Input <clause>
+	Input <predicate>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 25, The next lexeme would be (
+	Leave <small-atom>
+	Leave <atom>
+The next token would be: 10, The next lexeme would be N
+	Input <term-list>
+	Input <term>
+	Input <variable>
+The next token would be: 32, The next lexeme would be ,
+	Leave <variable>
+	Leave <term>
+The next token would be: 10, The next lexeme would be A
+	Input <term-list>
+	Input <term>
+	Input <variable>
+The next token would be: 32, The next lexeme would be ,
+	Leave <variable>
+	Leave <term>
+The next token would be: 10, The next lexeme would be F
+	Input <term-list>
+	Input <term>
+	Input <variable>
+The next token would be: 26, The next lexeme would be )
+	Leave <variable>
+	Leave <term>
+	Leave <term-list>
+	Leave <term-list>
+	Leave <term-list>
+The next token would be: 36, The next lexeme would be  
+The next token would be: 39, The next lexeme would be :
+	Leave <predicate>
+The next token would be: 22, The next lexeme would be -
+The next token would be: 36, The next lexeme would be  
+The next token would be: 10, The next lexeme would be A
+	Input <predicate-list>
+	Input <predicate>
+	Input <atom>
+Error Present! = in <atom>	Leave <atom>
+	Leave <predicate>
+	Leave <predicate-list>
+Error Present! = in <clause> missing Period/period	Leave <clause>
+	Leave <clause-list>
+	Leave <clause-list>
+	Leave <clause-list>
+	Input <query>
+Error Present! = in <query> missing a ?	Leave <query>
+	Input <program>
+	Input <program>
+Next token would be: 36, Next lexeme would be  
+The next token would be: 36, The next lexeme would be  
+The next token would be: 11, The next lexeme would be is
+	Input <clause-list>
+	Input <clause>
+	Input <predicate>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 36, The next lexeme would be  
+The next token would be: 10, The next lexeme would be N
+	Input <character-list>
+	Input <alphanumeric>
+The next token would be: 23, The next lexeme would be *
+	Leave <alphanumeric>
+	Leave <character-list>
+	Leave <small-atom>
+	Leave <atom>
+	Leave <predicate>
+Error Present! = in <clause> missing Period/period	Leave <clause>
+	Leave <clause-list>
+	Input <query>
+Error Present! = in <query> missing a ?	Leave <query>
+	Input <program>
+	Input <program>
+Next token would be: 32, Next lexeme would be ,
+	Input <clause-list>
+	Input <clause>
+	Input <predicate>
+	Input <atom>
+Error Present! = in <atom>	Leave <atom>
+	Leave <predicate>
+Error Present! = in <clause> missing Period/period	Leave <clause>
+	Leave <clause-list>
+	Input <query>
+Error Present! = in <query> missing a ?	Leave <query>
+	Input <program>
+	Input <program>
+Next token would be: 36, Next lexeme would be  
+The next token would be: 36, The next lexeme would be  
+The next token would be: 10, The next lexeme would be N
+	Input <clause-list>
+	Input <clause>
+	Input <predicate>
+	Input <atom>
+Error Present! = in <atom>	Leave <atom>
+	Leave <predicate>
+Error Present! = in <clause> missing Period/period	Leave <clause>
+	Leave <clause-list>
+	Input <query>
+Error Present! = in <query> missing a ?	Leave <query>
+	Input <program>
+	Input <program>
+Next token would be: 36, Next lexeme would be  
+The next token would be: 36, The next lexeme would be  
+The next token would be: 11, The next lexeme would be is
+	Input <clause-list>
+	Input <clause>
+	Input <predicate>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 36, The next lexeme would be  
+The next token would be: 10, The next lexeme would be N
+	Input <character-list>
+	Input <alphanumeric>
+The next token would be: 22, The next lexeme would be -
+	Leave <alphanumeric>
+	Leave <character-list>
+	Leave <small-atom>
+	Leave <atom>
+	Leave <predicate>
+Error Present! = in <clause> missing Period/period	Leave <clause>
+	Leave <clause-list>
+	Input <query>
+Error Present! = in <query> missing a ?	Leave <query>
+	Input <program>
+	Input <program>
+Next token would be: 32, Next lexeme would be ,
+	Input <clause-list>
+	Input <clause>
+	Input <predicate>
+	Input <atom>
+Error Present! = in <atom>	Leave <atom>
+	Leave <predicate>
+Error Present! = in <clause> missing Period/period	Leave <clause>
+	Leave <clause-list>
+	Input <query>
+Error Present! = in <query> missing a ?	Leave <query>
+	Input <program>
+	Input <program>
+Next token would be: 36, Next lexeme would be  
+The next token would be: 36, The next lexeme would be  
+The next token would be: 11, The next lexeme would be factorial
+	Input <clause-list>
+	Input <clause>
+	Input <predicate>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 25, The next lexeme would be (
+	Leave <small-atom>
+	Leave <atom>
+The next token would be: 10, The next lexeme would be N
+	Input <term-list>
+	Input <term>
+	Input <variable>
+The next token would be: 15, The next lexeme would be 1
+	Input <character-list>
+	Input <alphanumeric>
+The next token would be: 32, The next lexeme would be ,
+	Leave <alphanumeric>
+	Leave <character-list>
+	Leave <variable>
+	Leave <term>
+The next token would be: 10, The next lexeme would be A
+	Input <term-list>
+	Input <term>
+	Input <variable>
+The next token would be: 15, The next lexeme would be 1
+	Input <character-list>
+	Input <alphanumeric>
+The next token would be: 32, The next lexeme would be ,
+	Leave <alphanumeric>
+	Leave <character-list>
+	Leave <variable>
+	Leave <term>
+The next token would be: 10, The next lexeme would be F
+	Input <term-list>
+	Input <term>
+	Input <variable>
+The next token would be: 26, The next lexeme would be )
+	Leave <variable>
+	Leave <term>
+	Leave <term-list>
+	Leave <term-list>
+	Leave <term-list>
+The next token would be: 38, The next lexeme would be .
+	Leave <predicate>
+The next token would be: 12, The next lexeme would be 
+
+The next token would be: 37, The next lexeme would be ?
+	Leave <clause>
+	Leave <clause-list>
+	Input <query>
+The next token would be: 22, The next lexeme would be -
+The next token would be: 36, The next lexeme would be  
+The next token would be: 11, The next lexeme would be factorial
+	Input <predicate-list>
+	Input <predicate>
+	Input <atom>
+	Input <small-atom>
+The next token would be: 25, The next lexeme would be (
+	Leave <small-atom>
+	Leave <atom>
+The next token would be: 15, The next lexeme would be 100
+	Input <term-list>
+	Input <term>
+	Input <numeral>
+The next token would be: 32, The next lexeme would be ,
+	Leave <numeral>
+	Leave <term>
+The next token would be: 10, The next lexeme would be Result
+	Input <term-list>
+	Input <term>
+	Input <variable>
+The next token would be: 26, The next lexeme would be )
+	Leave <variable>
+	Leave <term>
+	Leave <term-list>
+	Leave <term-list>
+The next token would be: 38, The next lexeme would be .
+	Leave <predicate>
+	Leave <predicate-list>
+The next token would be: 36, The next lexeme would be  
+	Leave <query>
+	Input <program>
+	Input <program>
+Next token would be: -1, Next lexeme would be EOF
+	Leave <program>
